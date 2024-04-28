@@ -4,6 +4,8 @@
 
 ![Alcimar GitHub stats](https://github-readme-stats.vercel.app/api?username=Alcimar-N&show_icons=true&theme=dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alcimar-N)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Tecnologias no meu dia a dia
 [![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)]
 [![Insonmia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)]
