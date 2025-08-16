@@ -1,4 +1,6 @@
-### Olá 👋🔎
+### Analista de qualidade de software 🔎
+<img width="721" height="632" alt="image" src="https://github.com/user-attachments/assets/d134b3bb-f023-43bc-95f3-0c7c5105b85b" />
+
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alcimar-nascimento/)
 
