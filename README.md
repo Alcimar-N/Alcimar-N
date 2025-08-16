@@ -1,4 +1,4 @@
-### Analista de qualidade de software 🔎
+### Analista de testes de software 🔎
 <img width="721" height="632" alt="image" src="https://github.com/user-attachments/assets/d134b3bb-f023-43bc-95f3-0c7c5105b85b" />
 
 
